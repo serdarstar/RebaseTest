@@ -1,0 +1,15 @@
+{
+  "start": "Ask for online access to another patient’s GP services",
+  "enter_reading": "Check your blood pressure reading - NHS",
+  "reading_done": "Check your blood pressure - how was your reading done",
+  "system_error": "Sorry, there is a problem with the service - Check your blood pressure reading - NHS",
+  "request_error": "Sorry, there was a problem dealing with your request - Check your blood pressure reading - NHS",
+  "service_unavailable": "Sorry, the service is unavailable - Check your blood pressure reading - NHS",
+  "page_not_found": "Page not found - Check your blood pressure reading - NHS",
+  "terms_and_conditions": "Terms and conditions - NHS",
+  "privacy_policy": "Your privacy on the NHS website - NHS",
+  "nhs_uk_search": "Search - NHS",
+  "nhs_uk_home": "The NHS website - NHS",
+  "tool_survey": "Qualtrics Survey | Qualtrics Experience Management",
+  "contact_nhs": "Contact us about the NHS website"
+}

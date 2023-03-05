@@ -1,0 +1,4 @@
+{
+  "start": "https://NHSUK:Adult2Adult@proxy-access-prototype.azurewebsites.net/start-page",
+  "login": "https://NHSUK:Adult2Adult@proxy-access-prototype.azurewebsites.net/log-in"
+}
